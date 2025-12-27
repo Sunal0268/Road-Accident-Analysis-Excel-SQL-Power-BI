@@ -1,5 +1,6 @@
 # Road Accident Analysis Dashboard | Excel - SQL- Power BI |
 ~ Project Overview
+
 This project analyzes road accident data to uncover patterns in casualties, accident severity, vehicle types, road conditions and time trends.
 I have mad it easier for stakeholders to understand where, when, and why accidents occur and support data-driven road safety decisions.
 
@@ -11,10 +12,10 @@ I have mad it easier for stakeholders to understand where, when, and why acciden
 5. Provide an interactive dashboard for exploration
 
 ~ Tools I Used
-SQL (PostgreSQL) – Data cleaning, transformation & analysis
-Power BI – Interactive dashboard & visual storytelling
-Excel / CSV – Raw dataset handling
-GitHub – Version control & documentation
+1. SQL (PostgreSQL) – Data cleaning, transformation & analysis
+2. Power BI – Interactive dashboard & visual storytelling
+3. Excel / CSV – Raw dataset handling
+4. GitHub – Version control & documentation
 
 ~ Key Metrics
 1. Total Casualties: 417,888
