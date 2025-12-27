@@ -37,4 +37,4 @@ Gdrive: https://drive.google.com/drive/folders/1mlmMUJKy3JWuFIPCsXAwYfeTB1f6qK5k
 
 Excel Dashboard : https://1drv.ms/x/c/e38f0a16eb2f2f43/IQD-BENPlTEGT6jaEJ5aXO6sAd_nd1pXsMFTwgrvQSEPsR0?e=nzArtr
 
-Power Bi : 
+Power Bi : "C:\Users\sunal\Downloads\CAREER\DATA_ANALYTICS\DATA ANALYSIS\Road-Accident -Powr Bi - DASHBOARD - Copy.pbix"
