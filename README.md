@@ -1,5 +1,4 @@
 # Road Accident Analysis Dashboard | Excel - SQL- Power BI |
-~ Project Overview
 
 This project analyzes road accident data to uncover patterns in casualties, accident severity, vehicle types, road conditions and time trends.
 I have mad it easier for stakeholders to understand where, when, and why accidents occur and support data-driven road safety decisions.
